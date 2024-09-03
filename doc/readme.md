@@ -1,1 +1,1 @@
-# Slids of Formal Languages and Automata
+# Slides of Formal Languages and Automata
